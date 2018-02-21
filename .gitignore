@@ -1,0 +1,10 @@
+# files
+*.txt
+*.csv
+*.zip
+*.css
+*.Rhistory
+*.RData
+
+# folders
+rsconnect/
